@@ -41,7 +41,7 @@ Finally, we consolidated the dates from individual dates to weekly summary of ea
 
 ### Results
 
-### Differences in Ride Sharing Among the Different City Types
+#### Differences in Ride Sharing Among the Different City Types
 
 The difference in ride sharing among the different city types are: 
 * Urban rides have higher demand than both rural and suburban rides. 
@@ -50,6 +50,7 @@ The difference in ride sharing among the different city types are:
 
 ## Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
 ### Recommendations to Pyber 
 * Urban cities make the most money based on volume alone, and therefore, we should expand the dates to see if there are specific months or seasons where we see more drivers participating in Pyber. 
 * Rural cities make the most per trip, we would recommend reviewing deeper into which rural cities are utilizing Pyber more, and which rural cities are using Pyber less or not at all. 
